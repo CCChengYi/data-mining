@@ -10,3 +10,7 @@ Data Mining course's homework
 - [GitHub Dataset](https://www.kaggle.com/datasets/nikhil25803/github-dataset?select=repository_data.csv)
 - [Movies Dataset from Pirated Sites](https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website)
 
+
+
+## 互评作业2 频繁模式与关联规则挖掘
+
