@@ -14,3 +14,6 @@ Data Mining course's homework
 
 ## 互评作业2 频繁模式与关联规则挖掘
 
+**选取数据集为：**
+
+- [UCI垃圾邮件分类数据集](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/)
