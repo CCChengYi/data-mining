@@ -17,3 +17,12 @@ Data Mining course's homework
 **选取数据集为：**
 
 - [UCI垃圾邮件分类数据集](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/)
+
+
+
+## 互评作业三：基于 K-means 的文本聚类
+
+选取数据集为：
+
+- [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)
+
