@@ -22,7 +22,7 @@ Data Mining course's homework
 
 ## 互评作业三：基于 K-means 的文本聚类
 
-选取数据集为：
+**选取数据集为：**
 
 - [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)
 
